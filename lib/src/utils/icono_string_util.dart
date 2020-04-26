@@ -7,7 +7,12 @@ final _icons = <String, IconData>{
     'donut_large': Icons.donut_large,
     'input': Icons.input,
     'slider': Icons.tune,
-    'list': Icons.list
+    'list': Icons.list,
+    'steper' : Icons.directions_walk,
+    'tab': Icons.touch_app,
+    'bottomtab': Icons.tab,
+    'drawer': Icons.menu,
+    'snackbar': Icons.message
 };
 
 Icon getIcon(String icon){

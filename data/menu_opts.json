@@ -36,6 +36,32 @@
             "ruta" : "lists",
             "icon" : "list",
             "texto": "listas"
+        },
+        {
+            "ruta" : "steper",
+            "icon" : "steper",
+            "texto": "steper"
+        },
+        {
+            "ruta" : "tabs",
+            "icon" : "tab",
+            "texto": "tabs"
+        },
+        {
+            "ruta" : "bottomtabs",
+            "icon" : "bottomtab",
+            "texto": "bottomtabs"
+        },
+        {
+            "ruta" : "drawer",
+            "icon" : "drawer",
+            "texto": "drawer"
+        },
+        {
+            "ruta" : "snackbar",
+            "icon" : "snackbar",
+            "texto": "snackbar"
         }
+
     ]
 }
